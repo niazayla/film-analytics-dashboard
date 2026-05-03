@@ -1,0 +1,20 @@
+# --- Virtual Environment ---
+venv/
+env/
+
+# --- Environment Variables (RAHASIA!) ---
+.env
+
+# --- Python Cache / Sampah ---
+__pycache__/
+*.pyc
+
+# --- VS Code (Pengaturan Editor) ---
+.vscode/
+
+# --- File Sampah OS ---
+.DS_Store
+Thumbs.db
+
+# --- Database Lokal (Jangan di-upload) ---
+*.sqlite3
