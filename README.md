@@ -198,11 +198,6 @@ Model: **Random Forest**
 
 ## 👤 Author
 
-Your Name
 https://github.com/niazayla
 
----
 
-## 📄 License
-
-MIT License
